@@ -14,7 +14,9 @@ This project focuses on analyzing customer churn and retention patterns using a 
 
 ## 📁 Dataset
 - Telco Customer Churn Dataset
+## 📊 Dashboard Preview
 
+![Dashboard Screenshot](Customer Retention & Churn Analysis Dashboard using Excel.png)
 ## 🔍 Key Insights
 - Customers with month-to-month contracts have the highest churn rate
 - New customers (0–12 months tenure) are more likely to churn
